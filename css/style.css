@@ -129,8 +129,10 @@ p {
     grid-area: helloa;
     display: flex;
     flex-direction: column;
+    align-content: center;
+    justify-content: center;
     margin-top: 10%;
-    min-height: 90vh;
+    min-height: 70vh;
 }
 
 .abouta,
@@ -151,6 +153,7 @@ p {
 
 .projectsa {
     grid-area: projectsa;
+    padding-top: 5vh;
 }
 
 .projectstiles img {
@@ -172,7 +175,7 @@ p {
     align-content: center;
     justify-content: center;
     margin-top: 10%;
-    min-height: 80vh;
+    min-height: 90vh;
 }
 
 .responsive {
