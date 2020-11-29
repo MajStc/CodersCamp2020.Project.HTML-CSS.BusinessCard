@@ -16,6 +16,6 @@ Project is created with:
 * GitHub Pages
 
 ### Setup
-To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/'>here</a> !
+To run this project you simply have to click <a href='https://majstc.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/' target='_blank'>here</a> !
 
 
