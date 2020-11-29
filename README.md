@@ -1,6 +1,6 @@
-#### First project - Portfolio
+### First project - Portfolio
 
-##### Table of Contents
+#### Table of Contents
 * [General info](#generalinfo)
 * [Technologies](#technologies)
 * [Setup](#setup)
