@@ -1,30 +1,9 @@
-###### First project - Portfolio
+### First project - Portfolio
 
 ##### Table of Contents
-* [General info] (#generalinfo)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
-* [Status] (#status)
-
-## Table of contents
-* [General info](#general-info)
+* [General info](#generalinfo)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Status](#status)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
